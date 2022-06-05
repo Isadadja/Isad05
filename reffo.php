@@ -1,5 +1,5 @@
 <?php
-//MASUKAN REEF
+//MASUKKAN KODE REFF
 $reff = "ITXWZ";
 
 ?>
